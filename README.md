@@ -1,5 +1,5 @@
 # 💫 About Me:
-𓂀 Hey! I'm Berke ッ<br>🧩 I’m currently working as a freelance Front-End Developer.<br>🥮 I want to work with a creative/visionary team in the Netherlands.<br>⭐ I'm using Next.JS | React | Node.JS | Tailwind | CSS | HTML.<br>💠 I’m currently learning Figma and Solidity. I have a graphic-designer background and I use Adobe Illustrator since 2016.<br>💬 I'd like to work with you / your company with Hybrid / Remote.<br>☕ I'm a coffee lover. <br>⚡ I'm a creative person who loves to read books, using energy such as Reiki, Aromatherapy, Self-Development, and Parapsychology.
+𓂀 Hey! I'm Berke ッ<br>🧩 I’m currently working as a freelance Front-End Developer.<br>🥮 I want to work with a creative/visionary team in the Netherlands.<br>⭐ I'm using Next.JS | React | Node.JS | Tailwind | CSS | HTML.<br>💠 I’m currently learning Figma and Solidity. I have a graphic-designer background and I use Adobe Illustrator since 2016.<br>💬 I'd like to work with you / your company with Hybrid / Remote.<br>☕ I'm a coffee lover. <br>⚡ I'm a creative person who loves to read books, using energy such as Reiki, Self-Development, and Parapsychology.
 
 
 ## 🌐 Socials:
