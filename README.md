@@ -1,5 +1,5 @@
 # 💫 About Me:
-𓂀 Hey! I'm Berke ッ<br>🧩 I’m currently working as a freelance Front-End Developer.<br>🥮 I want to work with a creative/visionary team in the Netherlands / Germany.<br>⭐ I'm using Next.JS | React | Figma | Solidity | Node.JS | Tailwind | CSS | HTML.<br>💠 I’m currently learning Cross-Chain Platforms for EVM based Blockchains. I have a graphic-designer background and I use Adobe Illustrator since 2016.<br>💬 I'd like to work with you / your company with Hybrid / Remote.<br>⚡ I'm a creative person who loves to read books, using energy such as Reiki, Self-Development, and Parapsychology.
+𓂀 Hey! I'm Berke ッ<br>🧩 I’m currently working as a freelance Front-End & Blockchain Developer.<br>🥮 I want to work with a creative/visionary team in the Germany / Netherlands.<br>⭐ I'm using Next.JS | React | Figma | Solidity | Wagmi | Viem | Thirdweb | Node.JS | Tailwind | Prisma<br>💠 I’m currently learning Backend / Server Actions for create much better Cross-Chain Platforms for the EVM based Blockchains. I have a graphic-designer background and I use Adobe Illustrator since 2016.<br>💬 I'd like to work with you / your company with Hybrid / Remote.<br>⚡ I'm a creative person who loves to read books, using energy such as Reiki, Self-Development, and Parapsychology.
 
 
 ## 🌐 Socials:
