@@ -27,7 +27,7 @@ const berke = {
     "Server Actions & Backend Architecture",
     "Futuristic Ideas"
   ],
-  interests: ["Energy", "Books", "Gaming", "Self-Development", "Parapsychology", "Learning the World"],
+  interests: ["Energy", "Books", "Gaming", "Self-Development", "Parapsychology", "Ideas"],
 };
 ```
 
