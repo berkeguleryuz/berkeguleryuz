@@ -1,16 +1,88 @@
-# 💫 About Me:
-𓂀 Hey! I'm Berke ッ<br>🧩 I’m currently working as a freelance Front-End & Blockchain Developer.<br>🥮 I want to work with a creative/visionary team in the Germany / Netherlands.<br>⭐ I'm using Next.JS | React | Figma | Solidity | Wagmi | Viem | GSAP | Thirdweb | Node.JS | Tailwind | Prisma | MongoDB <br>💠 I’m currently learning Backend / Server Actions and 3D Modeling with Spline, Blender, Three.js / Fiber / Drei and GSAP for create much better Cross-Chain Platforms for the EVM based Blockchains. <br>💬 I'd like to work with you / your company with Hybrid / Remote.<br>⚡ I'm a creative person who loves to read books, using energy such as Reiki, Self-Development, and Parapsychology.
+<div align="center">
 
+# Berke Güleryüz
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BerkeGuleryuz1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berkeguleryuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berke-guleryuz) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@berkeguleryuz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/omegayon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Omegayon) 
+**Front-End & Blockchain Developer ~ Project Manager**
 
-# 💻 Techs:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E8853D&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Cross-Chain+Platforms+for+EVM;3D+Web+Experiences+with+Three.js+%26+Spline;Next.js+%7C+Solidity+%7C+GSAP+%7C+Node.js" alt="Typing SVG" />
+</a>
 
+![](https://komarev.com/ghpvc/?username=berkeguleryuz&color=E8853D&style=flat-square&label=views)
 
-# 🧑‍💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-# 🏆 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=berkeguleryuz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkeguleryuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+---
+
+### `> whoami`
+
+```ts
+const berke = {
+  location: "→ Germany",
+  role: "Front-End & Blockchain Developer || Project Manager",
+  workStyle: "On-Site | Hybrid | Remote",
+  focus: [
+    "Cross-Chain Platforms for EVM Blockchains",
+    "3D Web with GSAP, Three.js, Spline & Blender",
+    "Server Actions & Backend Architecture",
+    "Futuristic Ideas"
+  ],
+  interests: ["Energy", "Books", "Gaming", "Self-Development", "Parapsychology", "Learning the World"],
+};
+```
+
+---
+
+### Stack
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub>React</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="40" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=solidity" width="40" /><br><sub>Solidity</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=threejs" width="40" /><br><sub>Three.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><sub>Node.js</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><sub>MongoDB</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=prisma" width="40" /><br><sub>Prisma</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br><sub>MySQL</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="40" /><br><sub>Express</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=figma" width="40" /><br><sub>Figma</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=blender" width="40" /><br><sub>Blender</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ae" width="40" /><br><sub>After Effects</sub></td>
+  </tr>
+</table>
+</div>
+
+---
+
+### GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=berkeguleryuz&hide_border=true&background=0d1117&stroke=E8853D&ring=E8853D&fire=E8853D&currStreakLabel=E8853D&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="50%" alt="GitHub Streak" />
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/berke-guleryuz)&nbsp;&nbsp;
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/Omegayon)&nbsp;&nbsp;
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://instagram.com/berkeguleryuz)&nbsp;&nbsp;
+[![Reddit](https://go-skill-icons.vercel.app/api/icons?i=reddit)](https://reddit.com/user/omegayon)&nbsp;&nbsp;
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discord.com/users/500308032610238465)&nbsp;&nbsp;
+[![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram)](https://t.me/berkeguleryuz)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to hybrid / remote roles in Germany & Netherlands</sub>
+</div>
