@@ -63,7 +63,7 @@ const berke = {
 ### GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=berkeguleryuz&hide_border=true&background=0d1117&stroke=E8853D&ring=E8853D&fire=E8853D&currStreakLabel=E8853D&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="50%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=berkeguleryuz&hide_border=true&background=0d1117&stroke=E8853D&ring=E8853D&fire=E8853D&currStreakLabel=E8853D&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&timezone=Europe/Berlin" width="50%" alt="GitHub Streak" />
 </div>
 
 ---
