@@ -19,7 +19,7 @@
 ```ts
 const berke = {
   location: "→ Germany",
-  role: "Front-End & Blockchain Developer || Project Manager",
+  role: "Full-Stack & Blockchain Developer || IT Project Manager",
   workStyle: "On-Site | Hybrid | Remote",
   focus: [
     "Cross-Chain Platforms for EVM Blockchains",
