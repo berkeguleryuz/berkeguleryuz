@@ -2,7 +2,7 @@
 
 # Berke Güleryüz
 
-**Front-End & Blockchain Developer ~ Project Manager**
+**Full-Stack & Blockchain Developer ~ IT Project Manager**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E8853D&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Cross-Chain+Platforms+for+EVM;3D+Web+Experiences+with+Three.js+%26+Spline;Next.js+%7C+Solidity+%7C+GSAP+%7C+Node.js" alt="Typing SVG" />
