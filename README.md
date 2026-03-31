@@ -35,7 +35,7 @@ const berke = {
 
 ### 📁 Portfolio
 
-<div align="left">
+<div align="center">
 
 | Project | Category | Link |
 |--------|----------|------|
