@@ -43,7 +43,7 @@ const berke = {
 |  SquidMarket | NFT Marketplace | [squidmarket.xyz](https://squidmarket.xyz) |
 |  Triffle | Web3 · Raffle | [triffle.xyz](https://triffle.xyz) |
 |  NobodiesNFT | NFT Collection | [nobodiesnft.xyz](https://nobodiesnft.xyz) |
-|  TsurugiMarket | NFT Marketplace | [tsurugimarket.xyz](https://tsurugimarket.xyz) |
+|  TsurugiMarket | NFT Marketplace | [tsurugi.xyz](https://tsurugi.xyz) |
 |  Nyxara | Web3 Platform | [nyxara.xyz](https://nyxara.xyz) |
 |  WGroup GmbH | Corporate · Web | [wgroupgmbh.eu](https://wgroupgmbh.eu) |
 |  Clodron | AI · Automation | [clodron.com](https://clodron.com) |
