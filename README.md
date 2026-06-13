@@ -41,12 +41,10 @@ const berke = {
 |--------|----------|------|
 |  OnChainWin | Blockchain · EVM | [onchainwin.com](https://onchainwin.com) |
 |  Uygun Davet| Celebration Planner with Website | [uygundavet.com](uygundavet.com) |
-|  SquidMarket | NFT Marketplace [CLOSED] | [squidmarket.xyz](https://squidmarket.xyz) |
+|  Arclore | NFT Marketplace & Launchpad & Game Stuido | [arclore.xyz](https://arclore.xyz) |
 |  Triffle | Web3 · Raffle | [triffle.xyz](https://triffle.xyz) |
-|  NobodiesNFT | NFT Collection | [nobodiesnft.xyz](https://nobodiesnft.xyz) |
 |  Davet Yolla | Drag & Drop Celebration Planner | [davetyolla.com](https://davetyolla.com) |
 |  TsurugiMarket | NFT Marketplace | [tsurugi.xyz](https://tsurugi.xyz) |
-|  Nyxara | Web3 Platform | [nyxara.xyz](https://nyxara.xyz) |
 |  WGroup GmbH | Corporate · Web | [wgroupgmbh.eu](https://wgroupgmbh.eu) |
 |  Clodron | AI · Automation | [clodron.com](https://clodron.com) |
 
