@@ -41,7 +41,7 @@ const berke = {
 |--------|----------|------|
 |  OnChainWin | Blockchain · EVM | [onchainwin.com](https://onchainwin.com) |
 |  Uygun Davet| Celebration Planner with Website | [uygundavet.com](uygundavet.com) |
-|  Arclore | NFT Marketplace & Launchpad & Game Stuido | [arclore.xyz](https://arclore.xyz) |
+|  Arclore | NFT Marketplace & Launchpad & Game Studio | [arclore.xyz](https://arclore.xyz) |
 |  Triffle | Web3 · Raffle | [triffle.xyz](https://triffle.xyz) |
 |  Davet Yolla | Drag & Drop Celebration Planner | [davetyolla.com](https://davetyolla.com) |
 |  TsurugiMarket | NFT Marketplace | [tsurugi.xyz](https://tsurugi.xyz) |
