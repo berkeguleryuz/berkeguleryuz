@@ -21,8 +21,8 @@ const berke = {
   location: "→ Germany",
   role: "Full-Stack & Blockchain Developer || IT Project Manager",
   workStyle: "On-Site | Hybrid | Remote",
-  knowledge: "Solidity | Next.js | Hono | React | React Native | Wagmi | Viem | GSAP | Ethers | Framer Motion | Anime.js",
-  currently: "Learning FastAPI",
+  knowledge: "Solidity | Next.js | Hono | React | React Native | Node.js | Wagmi | Viem | GSAP | Ethers | Framer Motion | Anime.js",
+  currently: "Learning FastAPI & Python",
   focus: [
     "Cross-Chain Platforms for EVM Blockchains",
     "3D Web with GSAP, Three.js, Spline & Blender",
