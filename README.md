@@ -70,31 +70,34 @@ const berke = {
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><sub style="white-space: nowrap;">Next.js</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub style="white-space: nowrap;">React</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="40" /><br><sub style="white-space: nowrap;">TypeScript</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=solidity" width="40" /><br><sub style="white-space: nowrap;">Solidity</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><sub style="white-space: nowrap;">Tailwind</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=threejs" width="40" /><br><sub style="white-space: nowrap;">Three.js</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><sub style="white-space: nowrap;">Node.js</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><sub>Next.js</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub>React</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="40" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=solidity" width="40" /><br><sub>Solidity</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><sub>Tailwind</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=threejs" width="40" /><br><sub>Three.js</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><sub>Node.js</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=graphql" width="40" /><br><sub>GraphQL</sub></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><sub style="white-space: nowrap;">MongoDB</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=prisma" width="40" /><br><sub style="white-space: nowrap;">Prisma</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br><sub style="white-space: nowrap;">MySQL</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="40" /><br><sub style="white-space: nowrap;">Express</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="40" /><br><sub style="white-space: nowrap;">Figma</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=blender" width="40" /><br><sub style="white-space: nowrap;">Blender</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=electron" width="40" /><br><sub style="white-space: nowrap;">Electron</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><sub>MongoDB</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=prisma" width="40" /><br><sub>Prisma</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br><sub>MySQL</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="40" /><br><sub>Express</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="40" /><br><sub>Figma</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=blender" width="40" /><br><sub>Blender</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=electron" width="40" /><br><sub>Electron</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/expo/white" width="40" /><br><sub>Expo</sub></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="40" /><br><sub style="white-space: nowrap;">Python</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" width="40" /><br><sub style="white-space: nowrap;">FastAPI</sub></td>
-    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="40" /><br><sub style="white-space: nowrap;">LangChain</sub></td>
-    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="40" /><br><sub style="white-space: nowrap;">LangGraph</sub></td>
-    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="40" /><br><sub style="white-space: nowrap;">LangSmith</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="40" /><br><sub style="white-space: nowrap;">Redis</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub style="white-space: nowrap;">React Native</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="40" /><br><sub>Python</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" width="40" /><br><sub>FastAPI</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="40" /><br><sub>LangChain</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="40" /><br><sub>LangGraph</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="40" /><br><sub>LangSmith</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="40" /><br><sub>Redis</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub>React Native</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/hono" width="40" /><br><sub>Hono</sub></td>
   </tr>
 </table>
 </div>
