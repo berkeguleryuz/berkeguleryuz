@@ -18,13 +18,16 @@
 
 ```ts
 const berke = {
-  location: "→ Germany",
+  website: "https://www.berkeguleryuz.com",
+  location: "Berlin",
   role: "Full-Stack & Blockchain Developer || IT Project Manager",
   workStyle: "On-Site | Hybrid | Remote",
-  knowledge: "Solidity | Next.js | Hono | React | React Native | Node.js | Wagmi | Viem | GSAP | Ethers | Framer Motion | Anime.js",
+  knowledge: "Solidity | Next.js | Hono | React | React Native | Node.js | Python / FastAPI | Wagmi | Viem | GSAP | Ethers | Framer Motion | Anime.js",
   currently: "Learning FastAPI & Python",
   focus: [
-    "Cross-Chain Platforms for EVM Blockchains",
+    "Full-Stack Platforms",
+    "SaaS Projects",
+    "AI Agents",
     "3D Web with GSAP, Three.js, Spline & Blender",
     "Server Actions & Backend Architecture",
     "Futuristic Ideas"
@@ -44,7 +47,6 @@ const berke = {
 |  OnChainWin | Blockchain · EVM | [onchainwin.com](https://onchainwin.com) |
 |  Uygun Davet| Celebration Planner with Website | [uygundavet.com](uygundavet.com) |
 |  Arclore | NFT Marketplace & Launchpad & Game Studio | [arclore.xyz](https://arclore.xyz) |
-|  Triffle | Web3 · Raffle | [triffle.xyz](https://triffle.xyz) |
 |  Davet Yolla | Drag & Drop Celebration Planner | [davetyolla.com](https://davetyolla.com) |
 |  TsurugiMarket | NFT Marketplace | [tsurugi.xyz](https://tsurugi.xyz) |
 |  WGroup GmbH | Corporate · Web | [wgroupgmbh.eu](https://wgroupgmbh.eu) |
