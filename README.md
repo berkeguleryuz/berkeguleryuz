@@ -22,7 +22,7 @@ const berke = {
   location: "Berlin",
   role: "Full-Stack & Blockchain Developer || IT Project Manager",
   workStyle: "On-Site | Hybrid | Remote",
-  knowledge: "Solidity | Next.js | Hono | React | React Native | Node.js | Python / FastAPI | Wagmi | Viem | GSAP | Ethers | Framer Motion | Anime.js",
+  knowledge: "Solidity | Next.js | Hono | React | React Native | Node.js | Python / FastAPI | PostgreSQL | Docker | CI/CD | Wagmi | Viem | GSAP | Ethers | Framer Motion | Anime.js",
   currently: "Learning FastAPI & Python",
   focus: [
     "Full-Stack Platforms",
@@ -45,7 +45,7 @@ const berke = {
 | Project | Category | Link |
 |--------|----------|------|
 |  OnChainWin | Blockchain · EVM | [onchainwin.com](https://onchainwin.com) |
-|  Uygun Davet| Celebration Planner with Website | [uygundavet.com](uygundavet.com) |
+|  Uygun Davet| Celebration Planner with Website | [uygundavet.com](https://uygundavet.com) |
 |  Arclore | NFT Marketplace & Launchpad & Game Studio | [arclore.xyz](https://arclore.xyz) |
 |  Davet Yolla | Drag & Drop Celebration Planner | [davetyolla.com](https://davetyolla.com) |
 |  TsurugiMarket | NFT Marketplace | [tsurugi.xyz](https://tsurugi.xyz) |
@@ -58,10 +58,12 @@ const berke = {
 
 ```
 📁  projects/
+├── ai-agents/
+├── ai-automations/
 ├── blockchain/
 ├── web/
 ├── social-media/
-├── automations/
+├── bots&automations/
 └── tracking-systems/
 ```
 
@@ -100,6 +102,36 @@ const berke = {
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="40" /><br><sub>Redis</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub>React Native</sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/hono" width="40" /><br><sub>Hono</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="40" /><br><sub>Docker</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" width="40" /><br><sub>CI/CD</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nginx" width="40" /><br><sub>Nginx</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="40" /><br><sub>Git</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" width="40" /><br><sub>Bash</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="40" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=supabase" width="40" /><br><sub>Supabase</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="40" /><br><sub>AWS</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=gcp" width="40" /><br><sub>GCP</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vercel" width="40" /><br><sub>Vercel</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" /><br><sub>Cloudflare</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/stripe" width="40" /><br><sub>Stripe</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/zod" width="40" /><br><sub>Zod</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" /><br><sub>Playwright</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/greensock" width="40" /><br><sub>GSAP</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/framer/white" width="40" /><br><sub>Framer Motion</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/hardhat-icon.svg" width="40" /><br><sub>Hardhat</sub></td>
+    <td align="center" width="110"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ethers.svg" width="40" /><br><sub>Ethers.js</sub></td>
+    <td align="center" width="110"><img src="https://raw.githubusercontent.com/wevm/viem/main/site/public/icon-dark.png" width="40" /><br><sub>Viem</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="40" /><br><sub>OpenAI</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="40" /><br><sub>Claude</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="40" /><br><sub>Hugging Face</sub></td>
+    <td align="center" width="110"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" width="40" /><br><sub>Langfuse</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n" width="40" /><br><sub>n8n</sub></td>
   </tr>
 </table>
 </div>
